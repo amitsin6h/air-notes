@@ -1,4 +1,4 @@
-# air-notes
+# Air Notes
 Air Notes an android notes application 
 
 This android app is still in beta mode.
