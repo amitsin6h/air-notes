@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#28405E</color>
+    <color name="colorPrimaryDark">#28405E</color>
+    <color name="colorAccent">#F1C40F</color>
+    <color name="bodyBackground">#E7E9EB</color>
+    <color name="year">#999999</color>
+    <color name="title">#484949</color>
+    <color name="white">#ffffff</color>
+    <color name="deleteBackground">#F4776E</color>
+</resources>
